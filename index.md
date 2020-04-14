@@ -4,7 +4,7 @@ title: Setup
 nav_order: 1
 published: true
 ---
-## Need help with formatting your thesis?
+## Need help with formatting your dissertation or thesis?
 
 The Research Commons provides a thesis template and how-to guides, plus in-person help during our workshops or one-on-one consultations. We cover the following topics:
 
